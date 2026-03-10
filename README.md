@@ -1,0 +1,2 @@
+# Valut
+&lt;repositories>     &lt;repository>         &lt;id>jitpack.io&lt;/id>         &lt;url>https://jitpack.io&lt;/url>     &lt;/repository> &lt;/repositories> &lt;dependencies>     &lt;dependency>         &lt;groupId>com.github.MilkBowl&lt;/groupId>         &lt;artifactId>VaultAPI&lt;/artifactId>         &lt;version>1.7&lt;/version>         &lt;scope>provided&lt;/scope>     &lt;/dependency> &lt;/dependencies>
